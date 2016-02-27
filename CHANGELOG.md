@@ -1,5 +1,7 @@
 ## Unreleased
 
+## 3.5.1 (February 29, 2016)
+
 * Add support for logging events to multiple Amplitude apps. See [Readme](https://github.com/amplitude/Amplitude-iOS#tracking-events-to-multiple-amplitude-apps) for details.
 * Add shorthand method to unset user properties
 
